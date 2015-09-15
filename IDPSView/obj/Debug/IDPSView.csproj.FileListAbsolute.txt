@@ -1,0 +1,9 @@
+C:\wamp\www\IDPSView\IDPSView\bin\Debug\IDPSView.exe.config
+C:\wamp\www\IDPSView\IDPSView\bin\Debug\IDPSView.exe
+C:\wamp\www\IDPSView\IDPSView\bin\Debug\IDPSView.pdb
+C:\wamp\www\IDPSView\IDPSView\obj\Debug\IDPSView.csprojResolveAssemblyReference.cache
+C:\wamp\www\IDPSView\IDPSView\obj\Debug\IDPSView.Main.resources
+C:\wamp\www\IDPSView\IDPSView\obj\Debug\IDPSView.Properties.Resources.resources
+C:\wamp\www\IDPSView\IDPSView\obj\Debug\IDPSView.csproj.GenerateResource.Cache
+C:\wamp\www\IDPSView\IDPSView\obj\Debug\IDPSView.exe
+C:\wamp\www\IDPSView\IDPSView\obj\Debug\IDPSView.pdb
